@@ -1,8 +1,8 @@
-# 🧑‍💻Machine Learning
+# Machine Learning
 
-My machine learning assignments as Jupyter notebooks.
+Machine learning assignments as Jupyter notebooks.
 
-- **PA1 - Perceptron:** a perceptron for binary classification written from scratch, with a plot of the decision boundary.
-- **PA2 - SVM & Logistic Regression:** linear and kernel SVMs with grid search on the Sonar dataset, and multinomial logistic regression on Dry Beans.
-- **PA3 - CNNs:** a CNN built from scratch for 15 vegetable classes, compared with fine-tuned ResNet18 and MobileNet.
-- **PA4 - LSTM:** sentiment analysis on IMDB reviews with a custom LSTM and pretrained word embeddings.
+- **PA1:** Perceptron for binary classification, implemented from scratch.
+- **PA2:** SVM with kernel and hyperparameter search, and multinomial logistic regression.
+- **PA3:** CNN trained from scratch for image classification, compared with fine-tuned ResNet18 and MobileNet.
+- **PA4:** LSTM-based sentiment analysis on IMDB reviews.
